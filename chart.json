@@ -1,0 +1,15 @@
+{
+	"path": {
+		"image": "https://api.susi.ai/vis/piechart.png?data={%22Pepe%22:%2250%22,%22Mario%22:%2225%22,%22Hong%22:%2225%22}&width=1000&height=1000&legend=false&tooltip=false",
+		"previewHeight": 99,
+		"tags": "photo camera, canon a1, canon",
+		"webformatHeight": 426,
+		"views": 134,
+		"webformatWidth": 640,
+		"previewWidth": 150,
+		"webformatURL": "https://api.susi.ai/vis/piechart.png?data={%22Pepe%22:%2250%22,%22Mario%22:%2225%22,%22Hong%22:%2225%22}&width=1000&height=1000&legend=false&tooltip=false",
+		"imageWidth": 5803,
+		"type": "photo",
+		"imageHeight": 3868
+	}
+}
