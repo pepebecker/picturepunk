@@ -1,13 +1,13 @@
 {
 	"path": {
-		"image": "https://rawgit.com/pepebecker/picturepunk/master/image.png",
+		"image": "https://cdn.jsdelivr.net/gh/pepebecker/picturepunk@master/image.png",
 		"previewHeight": 99,
 		"tags": "photo camera, canon a1, canon",
 		"webformatHeight": 426,
 		"views": 134,
 		"webformatWidth": 640,
 		"previewWidth": 150,
-		"webformatURL": "https://rawgit.com/pepebecker/picturepunk/master/image.png",
+		"webformatURL": "https://cdn.jsdelivr.net/gh/pepebecker/picturepunk@master/image.png",
 		"imageWidth": 5803,
 		"type": "photo",
 		"imageHeight": 3868
